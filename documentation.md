@@ -50,4 +50,4 @@ function MyComponent() {
 
 Licensed under the ISC License, Copyright © 2022-present WorkOS.
 
-See [LICENSE](./LICENSE.md) for more information.
+<!-- See [LICENSE](./LICENSE.md) for more information. -->
