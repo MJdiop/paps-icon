@@ -1,0 +1,8 @@
+/* For custom css */
+.text {
+  max-width: max-content !important;
+  font-size: xx-large !important;
+}
+a {
+  color: #007bff;
+}
